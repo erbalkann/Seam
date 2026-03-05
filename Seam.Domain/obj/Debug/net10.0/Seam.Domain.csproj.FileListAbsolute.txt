@@ -1,0 +1,12 @@
+C:\Users\erbal\Desktop\Seam\Seam.Domain\bin\Debug\net10.0\Seam.Domain.deps.json
+C:\Users\erbal\Desktop\Seam\Seam.Domain\bin\Debug\net10.0\Seam.Domain.dll
+C:\Users\erbal\Desktop\Seam\Seam.Domain\bin\Debug\net10.0\Seam.Domain.pdb
+C:\Users\erbal\Desktop\Seam\Seam.Domain\obj\Debug\net10.0\Seam.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erbal\Desktop\Seam\Seam.Domain\obj\Debug\net10.0\Seam.Domain.AssemblyInfoInputs.cache
+C:\Users\erbal\Desktop\Seam\Seam.Domain\obj\Debug\net10.0\Seam.Domain.AssemblyInfo.cs
+C:\Users\erbal\Desktop\Seam\Seam.Domain\obj\Debug\net10.0\Seam.Domain.csproj.CoreCompileInputs.cache
+C:\Users\erbal\Desktop\Seam\Seam.Domain\obj\Debug\net10.0\Seam.Domain.sourcelink.json
+C:\Users\erbal\Desktop\Seam\Seam.Domain\obj\Debug\net10.0\Seam.Domain.dll
+C:\Users\erbal\Desktop\Seam\Seam.Domain\obj\Debug\net10.0\refint\Seam.Domain.dll
+C:\Users\erbal\Desktop\Seam\Seam.Domain\obj\Debug\net10.0\Seam.Domain.pdb
+C:\Users\erbal\Desktop\Seam\Seam.Domain\obj\Debug\net10.0\ref\Seam.Domain.dll

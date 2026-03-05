@@ -1,0 +1,16 @@
+C:\Users\erbal\Desktop\Seam\Seam.Application\bin\Debug\net10.0\Seam.Application.deps.json
+C:\Users\erbal\Desktop\Seam\Seam.Application\bin\Debug\net10.0\Seam.Application.dll
+C:\Users\erbal\Desktop\Seam\Seam.Application\bin\Debug\net10.0\Seam.Application.pdb
+C:\Users\erbal\Desktop\Seam\Seam.Application\bin\Debug\net10.0\Seam.Domain.dll
+C:\Users\erbal\Desktop\Seam\Seam.Application\bin\Debug\net10.0\Seam.Domain.pdb
+C:\Users\erbal\Desktop\Seam\Seam.Application\obj\Debug\net10.0\Seam.Application.csproj.AssemblyReference.cache
+C:\Users\erbal\Desktop\Seam\Seam.Application\obj\Debug\net10.0\Seam.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erbal\Desktop\Seam\Seam.Application\obj\Debug\net10.0\Seam.Application.AssemblyInfoInputs.cache
+C:\Users\erbal\Desktop\Seam\Seam.Application\obj\Debug\net10.0\Seam.Application.AssemblyInfo.cs
+C:\Users\erbal\Desktop\Seam\Seam.Application\obj\Debug\net10.0\Seam.Application.csproj.CoreCompileInputs.cache
+C:\Users\erbal\Desktop\Seam\Seam.Application\obj\Debug\net10.0\Seam.Application.sourcelink.json
+C:\Users\erbal\Desktop\Seam\Seam.Application\obj\Debug\net10.0\Seam.App.C0699DC1.Up2Date
+C:\Users\erbal\Desktop\Seam\Seam.Application\obj\Debug\net10.0\Seam.Application.dll
+C:\Users\erbal\Desktop\Seam\Seam.Application\obj\Debug\net10.0\refint\Seam.Application.dll
+C:\Users\erbal\Desktop\Seam\Seam.Application\obj\Debug\net10.0\Seam.Application.pdb
+C:\Users\erbal\Desktop\Seam\Seam.Application\obj\Debug\net10.0\ref\Seam.Application.dll

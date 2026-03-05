@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Seam.Application/Seam.Application.csproj" />
+  <Project Path="Seam.Domain/Seam.Domain.csproj" />
+  <Project Path="Seam.Infrastructure/Seam.Infrastructure.csproj" />
+</Solution>
